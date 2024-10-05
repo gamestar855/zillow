@@ -1,0 +1,44 @@
+*{
+    border: 0px;
+    margin: 0px;
+    padding: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.header{
+    background-color: white;
+    height: 100 px;
+    border-bottom: 1px solid gray;
+}
+
+.logo{
+    width: 250px;
+    margin-right: 150px ;
+    margin-left: 400px;
+}
+.nav-1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.nav2{ 
+    
+    display: flex;
+    align-items: center;
+}
+.link{
+    font-size: 16px;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    margin-right: 20px;
+    
+}
+.header-2{
+    display: flex;
+    background-color: white;
+    height: 100px;
+    align-items: center;
+    border-top: 1px solid gray;
+}
+.maps{
+    border-top: 1px solid gray;
+}
